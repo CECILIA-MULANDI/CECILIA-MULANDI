@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cecilia K. Mulandi</h1>
-<h3 align="center">A passionate backend and blockchain developer from Nairobi, Kenya.</h3>
+<h1 align="center">Hi 👋, I'm Cecilia  Mulandi</h1>
+<h3 align="center">A blockchain engineer from Nairobi, Kenya.</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/https://x.com/kashortgirl" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/kashortgirl?logo=twitter&style=for-the-badge" alt="https://x.com/kashortgirl" /></a> </p>
 
-- 🔭 I’m currently working on [ZK-KYC](https://github.com/CECILIA-MULANDI/ZK-KYC)
-
-- 🌱 I’m currently learning **Cryptography & Zero Knowledge**
 
 - 📫 How to reach me **mulandicecilia4@gmail.com**
 
