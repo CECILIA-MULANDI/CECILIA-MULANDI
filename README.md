@@ -3,8 +3,6 @@
 
 
 
-<p align="left"> <a href="https://x.com/kashortgirl" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/kashortgirl?logo=twitter&style=for-the-badge" alt="https://x.com/kashortgirl" /></a> </p>
-
 
 - 📫 How to reach me **mulandicecilia4@gmail.com**
 
