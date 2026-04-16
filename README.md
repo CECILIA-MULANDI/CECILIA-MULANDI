@@ -1,31 +1,33 @@
-<h1 align="center">Hi 👋, I'm Cecilia Mulandi</h1>
-<h3 align="center">A blockchain engineer from Nairobi, Kenya.</h3>
+<div align="center">
 
-- 📫 How to reach me: **mulandicecilia4@gmail.com**
-- ⚡ Fun fact: **I love learning and experimenting with new technologies.**
+# Hi 👋, I'm Cecilia Mulandi
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/kashortgirl" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashortgirl" height="30" width="40" />
-  </a>
-</p>
+### Blockchain Engineer specializing in Zero-Knowledge Proofs · Nairobi, Kenya
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  </a>
-</p>
+*Currently building with Noir, CKB, and Polkadot ecosystem tooling.*
+
+---
+
+### 🔧 Languages & Tools
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+![Cecilia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CECILIA-MULANDI&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CECILIA-MULANDI&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 🤝 Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-@kashortgirl-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kashortgirl)
+[![Email](https://img.shields.io/badge/Email-mulandicecilia4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulandicecilia4@gmail.com)
+
+</div>
